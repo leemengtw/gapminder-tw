@@ -1,0 +1,6 @@
+[submodule "statistics"]
+	path = statistics
+	url = https://github.com/open-numbers/ddf--gapminder--systema_globalis.git
+[submodule "vizabi"]
+	path = vizabi
+	url = https://github.com/vizabi/vizabi.git
